@@ -1,7 +1,7 @@
 {
   "models": {
     "TestModel": {
-      "latest_version": "1.0.2",
+      "latest_version": "1.0.3",
       "firmware_url": "https://raw.githubusercontent.com/sonuadithya02-ai/CruiseControl-Firmware-Release/main/firmware.bin"
     }
   }
